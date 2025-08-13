@@ -13,7 +13,24 @@
 
 # 💻 Favourite Tech Videos
 <!-- BEGIN YOUTUBE-CARDS -->
+<p align="center">
+  <a href="https://youtu.be/s4ET7Vn3nz4?si=Zmy8aiwiIMhBUXHT">
+    <img src="https://ytcards.demolab.com/?id=s4ET7Vn3nz4&title=20+Coolest+Tech+at+CES+2025&lang=en&timestamp=1739394000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=280&border_radius=6&duration=1886" alt="20 Coolest Tech at CES 2025">
+  </a>
+  <a href="https://youtu.be/MmFLDvOFLW0?si=qXPMTFBplk7tCq_c">
+    <img src="https://ytcards.demolab.com/?id=MmFLDvOFLW0&title=I+tested+the+new+ChatGpt+5!&lang=en&timestamp=1754600400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=280&border_radius=6&duration=762" alt="I tested the new ChatGpt 5!">
+  </a>
+  <a href="https://youtu.be/kS03mP7p0ts?si=7UXbigeHmyTVGP60">
+    <img src="https://ytcards.demolab.com/?id=kS03mP7p0ts&title=How+I+would+learn+to+code+(if+I+could+start+over)&lang=en&timestamp=1698663600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=280&border_radius=6&duration=695" alt="How I would learn to code (if I could start over)">
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://youtu.be/cMuif_hJGPI?si=EjziEqtwevZK3jGi">
+    <img src="https://ytcards.demolab.com/?id=cMuif_hJGPI&title=The+Ultimate+AI+Battle!&lang=en&timestamp=1752354000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=280&border_radius=6&duration=1631" alt="The Ultimate AI Battle!">
+  </a>
+  <a href="https://youtu.be/orJOLdv907g?si=r31zLR2hnvJiw5p7">
+    <img src="https://ytcards.demolab.com/?id=o8NiE3XMPrM&title=Google+I/O+'25+Keynote&lang=en&timestamp=1749762000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=280&border_radius=6&duration=3656.035" alt="Google I/O '25 Keynote">
 <!-- END YOUTUBE-CARDS -->
 
 ## 🌐 Socials
