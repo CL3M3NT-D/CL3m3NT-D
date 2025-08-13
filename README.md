@@ -13,11 +13,7 @@
 
 # 💻 Favourite Tech Videos
 <!-- BEGIN YOUTUBE-CARDS -->
-[![20 Coolest Tech at CES 2025](https://ytcards.demolab.com/id=s4ET7Vn3nz4&title=20+Coolest+Tech+at+CES+2025&lang=en&timestamp=1739394000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1886 "20 Coolest Tech at CES 2025")](https://youtu.be//s4ET7Vn3nz4?si=Zmy8aiwiIMhBUXHT)
-[![I tested the new ChatGpt5!](https://ytcards.demolab.com/id=MmFLDvOFLW0&title=I+tested+the+new+ChatGpt+5!&lang=en&timestamp=1754600400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=762 "I tested the new ChatGpt5!")](https://youtu.be/MmFLDvOFLW0?si=qXPMTFBplk7tCq_c)
-[![How I would learn to code (if I could start over)](https://ytcards.demolab.com/id=kS03mP7p0ts&title=How+I+would+learn+to+code(+if+I+could+start+over+)&lang=en&timestamp=1698663600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=695 "How I would learn to code (if I could start over)")](https://youtu.be/kS03mP7p0ts?si=7UXbigeHmyTVGP60)
-[![The Ultimate AI Battle!](https://ytcards.demolab.com/id=cMuif_hJGPI&title=The+Ultimate+AI+Battle!&lang=en&timestamp=1752354000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1631 "The Ultimate AI Battle!")](https://youtu.be/cMuif_hJGPI?si=EjziEqtwevZK3jGi)
-[![Google I/O '25 Keynote](https://ytcards.demolab.com/id=o8NiE3XMPrM&title=Google+I/O+'25+Keynote&lang=en&timestamp=1749762000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3656.035 "Google I/O '25 Keynote")](https://youtu.be/orJOLdv907g?si=r31zLR2hnvJiw5p7)
+
 <!-- END YOUTUBE-CARDS -->
 
 ## 🌐 Socials
